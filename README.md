@@ -6,8 +6,8 @@ Utilizing sequelize, express, mysql2 to create a database that can get, add, upd
 
 ## Table of Contents
 
-- [Create Schema from MySQL shell and seed database from command line](#database)
-- [Start Application](#start)
+- [Create Database](#Create-Database)
+- [Start Application](#Start-Application)
 - [GET](#get)
 - [POST](#post)
 - [PUT](#put)
@@ -17,8 +17,9 @@ Utilizing sequelize, express, mysql2 to create a database that can get, add, upd
 
 Below are instuction on how to run the software.
 
-<a name="headers">
-### Create Schema from MySQL shell and seed database from command line
+### Create Database
+
+Create Schema from MySQL shell and seed database from command line
 
 ![database](./public/video/database.gif)
 
