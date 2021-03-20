@@ -4,7 +4,19 @@
 
 Utilizing sequelize, express, mysql2 to create a database that can get, add, update, and delete data through API platform like Postman and Insomnia.
 
+## Table of Contents
+
+- [How To](#HowTo)
+  -- [Create Database](#database)
+  -- [Start App](#start)
+  -- [GET](#get)
+  -- [POST](#post)
+  -- [PUT](#put)
+  -- [DELETE](#delete)
+
 ## How To
+
+Below are instuction on how to run the software.
 
 ### Create Schema from MySQL shell and seed database from command line
 
@@ -16,16 +28,16 @@ Utilizing sequelize, express, mysql2 to create a database that can get, add, upd
 
 ### GET
 
-![start](./public/video/get.gif)
+![get](./public/video/get.gif)
 
 ### POST
 
-![start](./public/video/post.gif)
+![post](./public/video/post.gif)
 
 ### PUT
 
-![start](./public/video/put.gif)
+![put](./public/video/put.gif)
 
 ### DELETE
 
-![start](./public/video/delete.gif)
+![delete](./public/video/delete.gif)
