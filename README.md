@@ -6,13 +6,12 @@ Utilizing sequelize, express, mysql2 to create a database that can get, add, upd
 
 ## Table of Contents
 
-- [How To](#HowTo)
-  -- [Create Database](#database)
-  -- [Start App](#start)
-  -- [GET](#get)
-  -- [POST](#post)
-  -- [PUT](#put)
-  -- [DELETE](#delete)
+- [Create Schema from MySQL shell and seed database from command line](#database)
+- [Start Application](#start)
+- [GET](#get)
+- [POST](#post)
+- [PUT](#put)
+- [DELETE](#delete)
 
 ## How To
 
